@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
-**gunkinmail/gunkinmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-👋 Hi, I’m @mrgunkin
+👀 I’m interested in app development ,Etherem smart contracts and blockchain
+🌱 building the WhatsHotapp
+💞️ I’m looking to collaborate on anything evolving basics of app development
 
 Here are some ideas to get you started:
 
