@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-👋 Hi, I’m @mrgunkin
+👋 Hi, I’m @mrgunkin
 
 👀 I’m interested in app development ,Etherem smart contracts and blockchain
 
